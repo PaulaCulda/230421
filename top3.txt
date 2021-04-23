@@ -1,0 +1,4 @@
+TOP 3: 
+dormitor1 - 0.000000
+bucatarie - -62.776840
+dormitor1 - -64.668233

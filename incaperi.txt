@@ -1,0 +1,4 @@
+dormitor1
+dormitor2
+hol
+bucatarie

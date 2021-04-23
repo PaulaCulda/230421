@@ -1,0 +1,85 @@
+dormitor1
+17.631578 -82.210526 0.089285
+dormitor2
+17.110033 -82.417473 0.082023
+hol
+17.326471 -83.347061 0.096905
+bucatarie
+19.305000 -82.000000 0.081840
+dormitor1
+-nan -nan dormitor1
+-nan -nan 0.000000
+dormitor1
+6.000000 -85.000000 0.000000
+dormitor1
+0.000000 0.000000 0.000000
+dormitor1
+6.000000 -84.000000 0.000000
+dormitor1
+1.000000 -89.000000 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+1.000000 -83.000000 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+6.000000 -88.000000 0.000000
+dormitor1
+-nan -nan 0.000000
+dormitor1
+6.000000 -86.000000 0.000000
+dormitor2
+-nan -nan 0.000000
+dormitor1
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+dormitor2
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+dormitor2
+-nan -nan 0.000000
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+-nan -nan 0.000000
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+hol
+-nan -nan 0.000000
+bucatarie
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+bucatarie
+-nan -nan 0.000000
+bucatarie
+-nan -nan 0.000000
+
+-nan -nan 0.000000
+dormitor2
+-nan -nan 0.000000
+-nan -nan 0.000000
+hol
+-nan -nan 0.000000
+-nan -nan 0.000000
+-nan -nan 0.000000

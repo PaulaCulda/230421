@@ -1,0 +1,4 @@
+dormitor1_test1
+dormitor2_test1
+hol_test1
+bucatarie_test1
